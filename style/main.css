@@ -12,20 +12,48 @@ h1 {
   font-family: "Yeseva One", cursive;
 }
 a {
+  display: inline-block;
   text-decoration: none;
   color: white;
   background-color: #ff5959;
   padding: 10px 30px;
   border-radius: 5px;
+  margin: 20px 0px;
 }
-.first-section {
+.section {
   display: flex;
   padding-left: 10%;
   margin-top: 100px;
+  margin-bottom: 100px;
 }
 .half-width {
   width: 50%;
 }
 .half-width img {
   width: 80%;
+}
+.second-section {
+  display: flex;
+  align-items: center;
+}
+#illustrator-1 {
+  padding: 40px;
+  background-color: #4f9da6;
+  margin: 80px;
+  border-radius: 26px;
+}
+#illustrator-2 {
+  padding: 40px;
+  background-color: #ff5959;
+  margin: 80px;
+  border-radius: 26px;
+}
+#illustrator-3 {
+  padding: 40px;
+  background-color: #fff4d6;
+  margin: 80px;
+  border-radius: 26px;
+}
+.illustrator-slice img {
+  width: 30%;
 }
