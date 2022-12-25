@@ -57,3 +57,16 @@ a {
 .illustrator-slice img {
   width: 30%;
 }
+footer {
+  text-align: center;
+  background-color: black;
+  height: 200px;
+}
+footer h1 {
+  font-family: "Lobster", cursive;
+  color: white;
+  padding-top: 30px;
+}
+footer p {
+  color: white;
+}
