@@ -1,0 +1,31 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+.orange-color {
+  color: #ffad5a;
+}
+h1 {
+  font-size: 60px;
+}
+#first-heading {
+  font-family: "Yeseva One", cursive;
+}
+a {
+  text-decoration: none;
+  color: white;
+  background-color: #ff5959;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+.first-section {
+  display: flex;
+  padding-left: 10%;
+  margin-top: 100px;
+}
+.half-width {
+  width: 50%;
+}
+.half-width img {
+  width: 80%;
+}
